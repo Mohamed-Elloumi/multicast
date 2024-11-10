@@ -4,7 +4,7 @@ import java.net.InetAddress;
 
 public class Recepteur {
     // Adresse de groupe multicast
-    private static final String MCAST_GRP = "10.1.1.5";
+    private static final String MCAST_GRP = "224.0.0.1";
     // Port sur lequel le récepteur écoute
     private static final int MCAST_PORT = 5007;
 
