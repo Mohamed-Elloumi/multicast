@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Emetteur {
     // Adresse de groupe multicast
-    private static final String MCAST_GRP = "224.0.0.1";
+    private static final String MCAST_GRP = "239.0.0.1";
     // Port pour envoyer les données en multicast
     private static final int MCAST_PORT = 5007;
 
